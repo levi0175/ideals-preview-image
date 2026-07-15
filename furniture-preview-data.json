@@ -1,0 +1,590 @@
+[
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-modern-penthouse.png",
+    "name": "Modern Penthouse",
+    "promptReplace": "A luxurious king-size platform bed upholstered in warm ivory bouclé fabric, featuring a wide padded headboard with subtle vertical channel stitching. Includes a low-profile frame, crisp white bedding, beige accent pillows, and refined brushed-brass details. Scaled proportionally to the bedroom, with balanced visual weight and sufficient space around the bed, suitable for a spacious modern penthouse.",
+    "promptAddFurniture": "A luxurious king-size platform bed upholstered in warm ivory bouclé fabric, featuring a wide padded headboard with subtle vertical channel stitching. Includes a low-profile frame, crisp white bedding, beige accent pillows, and refined brushed-brass details. Scaled proportionally to the bedroom, with balanced visual weight and sufficient space around the bed, suitable for a spacious modern penthouse."
+  },
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-neoclassical-villa.png",
+    "name": "Neoclassical Villa",
+    "promptReplace": "An elegant neoclassical bed with a tall cream velvet headboard, softly curved corners, deep button tufting, and delicate antique-gold trim. The frame is crafted from dark walnut wood with carved legs and refined decorative details. Proportioned naturally to fit a luxurious villa master bedroom without overwhelming the surrounding architecture or furniture.",
+    "promptAddFurniture": "An elegant neoclassical bed with a tall cream velvet headboard, softly curved corners, deep button tufting, and delicate antique-gold trim. The frame is crafted from dark walnut wood with carved legs and refined decorative details. Proportioned naturally to fit a luxurious villa master bedroom without overwhelming the surrounding architecture or furniture."
+  },
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-japandi-home.png",
+    "name": "Japandi Home",
+    "promptReplace": "A refined Japandi-style bed made from light natural oak, with a low floating frame, gently rounded edges, and a simple slatted headboard. Styled with soft oatmeal linen bedding and muted beige cushions. Sized harmoniously for a calm apartment or contemporary townhouse bedroom, preserving open space and a relaxed minimalist atmosphere.",
+    "promptAddFurniture": "A refined Japandi-style bed made from light natural oak, with a low floating frame, gently rounded edges, and a simple slatted headboard. Styled with soft oatmeal linen bedding and muted beige cushions. Sized harmoniously for a calm apartment or contemporary townhouse bedroom, preserving open space and a relaxed minimalist atmosphere."
+  },
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-coastal-luxury-home.png",
+    "name": "Coastal Luxury Home",
+    "promptReplace": "A luxurious coastal bed with a wide upholstered headboard in soft sand-colored linen, pale oak framing, and subtle woven-rattan side panels. Includes layered white bedding, pale-blue cushions, and relaxed natural textures. Scaled naturally to suit a bright coastal bedroom while maintaining airy spacing and balanced proportions.",
+    "promptAddFurniture": "A luxurious coastal bed with a wide upholstered headboard in soft sand-colored linen, pale oak framing, and subtle woven-rattan side panels. Includes layered white bedding, pale-blue cushions, and relaxed natural textures. Scaled naturally to suit a bright coastal bedroom while maintaining airy spacing and balanced proportions."
+  },
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-industrial-loft.png",
+    "name": "Industrial Loft",
+    "promptReplace": "A premium industrial bed with a dark charcoal leather headboard, slim blackened-steel frame, and warm reclaimed-walnut accents. Features clean horizontal stitching, a low silhouette, and neutral gray bedding. Proportioned appropriately for an upscale loft bedroom, leaving comfortable circulation space around the furniture.",
+    "promptAddFurniture": "A premium industrial bed with a dark charcoal leather headboard, slim blackened-steel frame, and warm reclaimed-walnut accents. Features clean horizontal stitching, a low silhouette, and neutral gray bedding. Proportioned appropriately for an upscale loft bedroom, leaving comfortable circulation space around the furniture."
+  },
+  {
+    "categoryCode": "bed",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/bed/image-bed-art-deco-residence.png",
+    "name": "Art Deco Residence",
+    "promptReplace": "A glamorous Art Deco bed upholstered in deep emerald velvet, featuring a tall fan-shaped headboard with channel stitching and polished-brass edging. The base has rounded corners and a slim gold metal plinth. Scaled to become an elegant focal point without appearing oversized within a boutique residence or luxury bedroom.",
+    "promptAddFurniture": "A glamorous Art Deco bed upholstered in deep emerald velvet, featuring a tall fan-shaped headboard with channel stitching and polished-brass edging. The base has rounded corners and a slim gold metal plinth. Scaled to become an elegant focal point without appearing oversized within a boutique residence or luxury bedroom."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-modern-luxury.png",
+    "name": "Modern Luxury Chair",
+    "promptReplace": "A modern luxury accent chair upholstered in warm ivory cream leather with a soft beige undertone. Features a wide curved backrest, softly rounded armrests, a thick padded seat cushion, clean stitching, and tapered dark-walnut wooden legs. Scaled with realistic, well-balanced proportions, suitable for a living room or bedroom corner while maintaining natural spacing around the chair.",
+    "promptAddFurniture": "A modern luxury accent chair upholstered in warm ivory cream leather with a soft beige undertone. Features a wide curved backrest, softly rounded armrests, a thick padded seat cushion, clean stitching, and tapered dark-walnut wooden legs. Scaled with realistic, well-balanced proportions, suitable for a living room or bedroom corner while maintaining natural spacing around the chair."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-neoclassical-armchair.png",
+    "name": "Neoclassical Armchair",
+    "promptReplace": "An elegant neoclassical armchair upholstered in soft champagne velvet, with a gently curved high back, rolled armrests, refined piping, and carved walnut legs finished with antique-gold accents. Sized appropriately as a luxurious accent piece for a villa lounge, bedroom corner, reading area, or formal interior.",
+    "promptAddFurniture": "An elegant neoclassical armchair upholstered in soft champagne velvet, with a gently curved high back, rolled armrests, refined piping, and carved walnut legs finished with antique-gold accents. Sized appropriately as a luxurious accent piece for a villa lounge, bedroom corner, reading area, or formal interior."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-japandi-lounge.png",
+    "name": "Japandi Lounge Chair",
+    "promptReplace": "A sophisticated Japandi lounge chair with a sculptural light-oak frame, woven natural-cane side panels, and thick oatmeal linen cushions. Features clean joinery, rounded edges, and a relaxed low profile. Proportioned naturally for a peaceful living room or bedroom corner without making the space feel crowded.",
+    "promptAddFurniture": "A sophisticated Japandi lounge chair with a sculptural light-oak frame, woven natural-cane side panels, and thick oatmeal linen cushions. Features clean joinery, rounded edges, and a relaxed low profile. Proportioned naturally for a peaceful living room or bedroom corner without making the space feel crowded."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-coastal-accent.png",
+    "name": "Coastal Accent Chair",
+    "promptReplace": "A luxurious coastal accent chair with a whitewashed-oak frame, curved woven-rattan backrest, and plush cushions upholstered in pale sand linen. Includes soft blue-gray piping and gently tapered legs. Scaled appropriately for a bright coastal room, sunroom, bedroom corner, or relaxed reading area.",
+    "promptAddFurniture": "A luxurious coastal accent chair with a whitewashed-oak frame, curved woven-rattan backrest, and plush cushions upholstered in pale sand linen. Includes soft blue-gray piping and gently tapered legs. Scaled appropriately for a bright coastal room, sunroom, bedroom corner, or relaxed reading area."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-industrial-club.png",
+    "name": "Industrial Club Chair",
+    "promptReplace": "A premium industrial club chair upholstered in rich cognac leather with visible natural grain, deep seat padding, gently curved arms, and a black powder-coated steel base. Balanced in size and visual weight, suitable for an upscale loft, private study, bedroom corner, or masculine living room.",
+    "promptAddFurniture": "A premium industrial club chair upholstered in rich cognac leather with visible natural grain, deep seat padding, gently curved arms, and a black powder-coated steel base. Balanced in size and visual weight, suitable for an upscale loft, private study, bedroom corner, or masculine living room."
+  },
+  {
+    "categoryCode": "chair",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/chair/image-chair-art-deco.png",
+    "name": "Art Deco Chair",
+    "promptReplace": "A glamorous Art Deco accent chair upholstered in deep navy velvet, featuring a scalloped shell-shaped backrest, rounded seat, polished-brass base, and precise vertical channel stitching. Proportioned as a sophisticated statement chair for a luxury bedroom, dressing area, living room corner, or boutique apartment.",
+    "promptAddFurniture": "A glamorous Art Deco accent chair upholstered in deep navy velvet, featuring a scalloped shell-shaped backrest, rounded seat, polished-brass base, and precise vertical channel stitching. Proportioned as a sophisticated statement chair for a luxury bedroom, dressing area, living room corner, or boutique apartment."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-fiddle-leaf-fig.png",
+    "name": "Fiddle-Leaf Fig",
+    "promptReplace": "A luxurious fiddle-leaf fig tree with broad glossy deep-green leaves, a natural branching trunk, and a full balanced canopy. Planted in a large matte-ivory ceramic pot with subtle stone texture. Scaled naturally to fill an empty living room or bedroom corner without blocking windows, furniture, or architectural features.",
+    "promptAddFurniture": "A luxurious fiddle-leaf fig tree with broad glossy deep-green leaves, a natural branching trunk, and a full balanced canopy. Planted in a large matte-ivory ceramic pot with subtle stone texture. Scaled naturally to fill an empty living room or bedroom corner without blocking windows, furniture, or architectural features."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-olive-tree.png",
+    "name": "Olive Tree",
+    "promptReplace": "A refined indoor olive tree with slender silver-green leaves, a naturally twisted trunk, and an airy Mediterranean canopy. Placed in a warm-beige limestone planter with a softly weathered finish. Sized appropriately for a coastal villa, Mediterranean home, hallway, living room, or bedroom corner.",
+    "promptAddFurniture": "A refined indoor olive tree with slender silver-green leaves, a naturally twisted trunk, and an airy Mediterranean canopy. Placed in a warm-beige limestone planter with a softly weathered finish. Sized appropriately for a coastal villa, Mediterranean home, hallway, living room, or bedroom corner."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-bird-of-paradise.png",
+    "name": "Bird of Paradise",
+    "promptReplace": "A dramatic bird-of-paradise plant with large upright emerald leaves, realistic natural curves, and a lush tropical appearance. Set inside a sculptural charcoal ceramic planter with a matte finish. Proportioned to create a bold decorative accent while fitting naturally into a contemporary living room or spacious bedroom corner.",
+    "promptAddFurniture": "A dramatic bird-of-paradise plant with large upright emerald leaves, realistic natural curves, and a lush tropical appearance. Set inside a sculptural charcoal ceramic planter with a matte finish. Proportioned to create a bold decorative accent while fitting naturally into a contemporary living room or spacious bedroom corner."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-bonsai-tree.png",
+    "name": "Bonsai Tree",
+    "promptReplace": "A sophisticated indoor bonsai tree with a sculptural dark trunk, dense deep-green foliage, and an elegant asymmetrical form. Planted in a low rectangular black stone pot with fine gravel. Scaled appropriately for a console, cabinet, side table, shelf, or refined minimalist corner.",
+    "promptAddFurniture": "A sophisticated indoor bonsai tree with a sculptural dark trunk, dense deep-green foliage, and an elegant asymmetrical form. Planted in a low rectangular black stone pot with fine gravel. Scaled appropriately for a console, cabinet, side table, shelf, or refined minimalist corner."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-areca-palm.png",
+    "name": "Areca Palm",
+    "promptReplace": "A luxurious areca palm with multiple slender stems and soft arching green fronds, creating a light and elegant tropical silhouette. Placed in a woven natural-fiber basket with a concealed ceramic planter. Sized naturally for a bright coastal living room, sunroom, bedroom corner, or relaxed luxury interior.",
+    "promptAddFurniture": "A luxurious areca palm with multiple slender stems and soft arching green fronds, creating a light and elegant tropical silhouette. Placed in a woven natural-fiber basket with a concealed ceramic planter. Sized naturally for a bright coastal living room, sunroom, bedroom corner, or relaxed luxury interior."
+  },
+  {
+    "categoryCode": "plant",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/plant/image-plant-rubber-plant.png",
+    "name": "Rubber Plant",
+    "promptReplace": "A premium rubber plant with thick glossy burgundy-green leaves, strong upright stems, and a dense sculptural shape. Planted in a polished dark-green marble-effect planter with fine brass detailing. Proportioned to fit elegantly beside a sofa, console, cabinet, or bedroom reading corner.",
+    "promptAddFurniture": "A premium rubber plant with thick glossy burgundy-green leaves, strong upright stems, and a dense sculptural shape. Planted in a polished dark-green marble-effect planter with fine brass detailing. Proportioned to fit elegantly beside a sofa, console, cabinet, or bedroom reading corner."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-modern-modular.png",
+    "name": "Modern Modular Sofa",
+    "promptReplace": "A luxurious modular sofa upholstered in warm ivory bouclé fabric, featuring deep low-profile seating, softly rounded corners, wide armrests, and plush feather-filled cushions. Scaled proportionally to the living room, providing generous comfort while preserving open circulation and balanced spacing.",
+    "promptAddFurniture": "A luxurious modular sofa upholstered in warm ivory bouclé fabric, featuring deep low-profile seating, softly rounded corners, wide armrests, and plush feather-filled cushions. Scaled proportionally to the living room, providing generous comfort while preserving open circulation and balanced spacing."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-neoclassical.png",
+    "name": "Neoclassical Sofa",
+    "promptReplace": "An elegant neoclassical sofa upholstered in champagne velvet, with a gently curved backrest, subtle button tufting, rolled arms, and carved dark-walnut legs with antique-gold accents. Proportioned appropriately for a formal villa living room without dominating the surrounding architectural details.",
+    "promptAddFurniture": "An elegant neoclassical sofa upholstered in champagne velvet, with a gently curved backrest, subtle button tufting, rolled arms, and carved dark-walnut legs with antique-gold accents. Proportioned appropriately for a formal villa living room without dominating the surrounding architectural details."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-japandi.png",
+    "name": "Japandi Sofa",
+    "promptReplace": "A refined Japandi sofa with a light natural-oak frame, low clean silhouette, wide oatmeal linen cushions, and softly rounded edges. Includes muted beige and taupe accent pillows. Sized harmoniously for a minimalist apartment or contemporary townhouse, maintaining an open and peaceful layout.",
+    "promptAddFurniture": "A refined Japandi sofa with a light natural-oak frame, low clean silhouette, wide oatmeal linen cushions, and softly rounded edges. Includes muted beige and taupe accent pillows. Sized harmoniously for a minimalist apartment or contemporary townhouse, maintaining an open and peaceful layout."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-coastal.png",
+    "name": "Coastal Sofa",
+    "promptReplace": "A luxurious coastal sofa upholstered in soft off-white linen, featuring deep comfortable seating, loose cushions, pale-oak feet, and subtle blue-gray accent pillows. Scaled naturally for a beach house or coastal living room, preserving an airy and relaxed atmosphere.",
+    "promptAddFurniture": "A luxurious coastal sofa upholstered in soft off-white linen, featuring deep comfortable seating, loose cushions, pale-oak feet, and subtle blue-gray accent pillows. Scaled naturally for a beach house or coastal living room, preserving an airy and relaxed atmosphere."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-industrial-leather.png",
+    "name": "Industrial Leather Sofa",
+    "promptReplace": "A premium industrial sofa upholstered in rich cognac full-grain leather, with deep button tufting, broad squared arms, black steel legs, and visible natural leather variation. Proportioned to fit an upscale loft or urban living room while maintaining comfortable spacing around nearby furniture.",
+    "promptAddFurniture": "A premium industrial sofa upholstered in rich cognac full-grain leather, with deep button tufting, broad squared arms, black steel legs, and visible natural leather variation. Proportioned to fit an upscale loft or urban living room while maintaining comfortable spacing around nearby furniture."
+  },
+  {
+    "categoryCode": "sofa",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/sofa/image-sofa-art-deco-curved.png",
+    "name": "Art Deco Curved Sofa",
+    "promptReplace": "A glamorous curved sofa upholstered in deep emerald velvet, featuring vertical channel stitching, a smooth crescent silhouette, rounded arms, and a polished-brass base. Sized as an elegant focal point while remaining proportionate to a luxury apartment, boutique lounge, or formal living area.",
+    "promptAddFurniture": "A glamorous curved sofa upholstered in deep emerald velvet, featuring vertical channel stitching, a smooth crescent silhouette, rounded arms, and a polished-brass base. Sized as an elegant focal point while remaining proportionate to a luxury apartment, boutique lounge, or formal living area."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-marble-dining.png",
+    "name": "Marble Dining Table",
+    "promptReplace": "A luxurious rectangular dining table with a polished Calacatta marble top featuring soft gray and gold veining, supported by two sculptural brushed-brass pedestal legs. Scaled proportionally to the dining area, allowing comfortable chair placement and natural circulation around the table.",
+    "promptAddFurniture": "A luxurious rectangular dining table with a polished Calacatta marble top featuring soft gray and gold veining, supported by two sculptural brushed-brass pedestal legs. Scaled proportionally to the dining area, allowing comfortable chair placement and natural circulation around the table."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-neoclassical-dining.png",
+    "name": "Neoclassical Dining Table",
+    "promptReplace": "An elegant oval dining table crafted from dark walnut wood, featuring a polished surface, softly beveled edges, carved pedestal legs, and subtle antique-gold detailing. Sized harmoniously for a grand villa dining room without overwhelming the surrounding furniture or decorative architecture.",
+    "promptAddFurniture": "An elegant oval dining table crafted from dark walnut wood, featuring a polished surface, softly beveled edges, carved pedestal legs, and subtle antique-gold detailing. Sized harmoniously for a grand villa dining room without overwhelming the surrounding furniture or decorative architecture."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-japandi-dining.png",
+    "name": "Japandi Dining Table",
+    "promptReplace": "A refined Japandi dining table made from light natural oak, with a thick rounded rectangular top, visible wood grain, and two clean sculptural legs. Proportioned naturally for a minimalist dining area, creating balanced spacing and an uncluttered appearance.",
+    "promptAddFurniture": "A refined Japandi dining table made from light natural oak, with a thick rounded rectangular top, visible wood grain, and two clean sculptural legs. Proportioned naturally for a minimalist dining area, creating balanced spacing and an uncluttered appearance."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-coastal-dining.png",
+    "name": "Coastal Dining Table",
+    "promptReplace": "A luxurious coastal dining table made from whitewashed oak, featuring a wide plank-style top, softly rounded corners, and elegant trestle legs. Scaled appropriately for a bright beach house or coastal villa, maintaining a relaxed and spacious dining layout.",
+    "promptAddFurniture": "A luxurious coastal dining table made from whitewashed oak, featuring a wide plank-style top, softly rounded corners, and elegant trestle legs. Scaled appropriately for a bright beach house or coastal villa, maintaining a relaxed and spacious dining layout."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-industrial.png",
+    "name": "Industrial Table",
+    "promptReplace": "A premium industrial dining table with a solid reclaimed-walnut top, natural live edges, and a slim blackened-steel frame. Sized proportionally for an upscale loft or urban apartment, with sufficient space for chairs and comfortable movement.",
+    "promptAddFurniture": "A premium industrial dining table with a solid reclaimed-walnut top, natural live edges, and a slim blackened-steel frame. Sized proportionally for an upscale loft or urban apartment, with sufficient space for chairs and comfortable movement."
+  },
+  {
+    "categoryCode": "table",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/table/image-table-art-deco-side.png",
+    "name": "Art Deco Side Table",
+    "promptReplace": "A glamorous Art Deco side table with a round smoked-glass top, polished-brass frame, and a dark-green marble lower shelf. Scaled appropriately beside a sofa, lounge chair, bed, or reading corner without appearing too large or too small.",
+    "promptAddFurniture": "A glamorous Art Deco side table with a round smoked-glass top, polished-brass frame, and a dark-green marble lower shelf. Scaled appropriately beside a sofa, lounge chair, bed, or reading corner without appearing too large or too small."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-modern-floor.png",
+    "name": "Modern Floor Lamp",
+    "promptReplace": "A luxurious modern floor lamp with a slim brushed-brass stem, sculptural arched profile, and a large warm-white linen drum shade. Scaled naturally beside a sofa, lounge chair, or bedroom reading corner, providing balanced visual height without overpowering nearby furniture.",
+    "promptAddFurniture": "A luxurious modern floor lamp with a slim brushed-brass stem, sculptural arched profile, and a large warm-white linen drum shade. Scaled naturally beside a sofa, lounge chair, or bedroom reading corner, providing balanced visual height without overpowering nearby furniture."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-neoclassical-table.png",
+    "name": "Neoclassical Table Lamp",
+    "promptReplace": "An elegant neoclassical table lamp with a cream marble base, antique-gold detailing, and a softly tapered ivory silk shade. Sized proportionally for a bedside table, console, side table, or formal living room cabinet.",
+    "promptAddFurniture": "An elegant neoclassical table lamp with a cream marble base, antique-gold detailing, and a softly tapered ivory silk shade. Sized proportionally for a bedside table, console, side table, or formal living room cabinet."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-japandi-floor.png",
+    "name": "Japandi Floor Lamp",
+    "promptReplace": "A refined Japandi floor lamp with a light-oak tripod base and a softly glowing handmade rice-paper shade. Features clean organic lines and warm diffused light. Proportioned appropriately for a minimalist living room or bedroom corner while preserving an open and peaceful atmosphere.",
+    "promptAddFurniture": "A refined Japandi floor lamp with a light-oak tripod base and a softly glowing handmade rice-paper shade. Features clean organic lines and warm diffused light. Proportioned appropriately for a minimalist living room or bedroom corner while preserving an open and peaceful atmosphere."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-coastal-table.png",
+    "name": "Coastal Table Lamp",
+    "promptReplace": "A luxurious coastal table lamp with a pale-blue ceramic base, subtle hand-glazed texture, and a wide off-white linen shade. Sized harmoniously for a bedside table, coastal console, cabinet, or living room side table.",
+    "promptAddFurniture": "A luxurious coastal table lamp with a pale-blue ceramic base, subtle hand-glazed texture, and a wide off-white linen shade. Sized harmoniously for a bedside table, coastal console, cabinet, or living room side table."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-industrial-floor.png",
+    "name": "Industrial Floor Lamp",
+    "promptReplace": "A premium industrial floor lamp with a matte-black steel frame, adjustable arm, exposed brass joints, and a smoked-glass dome shade. Scaled naturally for an upscale loft, office, sofa corner, or bedroom reading area.",
+    "promptAddFurniture": "A premium industrial floor lamp with a matte-black steel frame, adjustable arm, exposed brass joints, and a smoked-glass dome shade. Scaled naturally for an upscale loft, office, sofa corner, or bedroom reading area."
+  },
+  {
+    "categoryCode": "lamp",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/lamp/image-lamp-art-deco.png",
+    "name": "Art Deco Lamp",
+    "promptReplace": "A glamorous Art Deco table lamp with a fluted emerald-glass base, polished-brass accents, and a cream pleated-silk shade. Proportioned elegantly for a bedside table, cocktail cabinet, console, or sophisticated living room corner.",
+    "promptAddFurniture": "A glamorous Art Deco table lamp with a fluted emerald-glass base, polished-brass accents, and a cream pleated-silk shade. Proportioned elegantly for a bedside table, cocktail cabinet, console, or sophisticated living room corner."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-modern-wool.png",
+    "name": "Modern Wool Carpet",
+    "promptReplace": "A luxurious hand-tufted wool carpet in warm ivory, beige, and soft taupe, featuring an abstract flowing pattern with subtle raised texture. Scaled proportionally to anchor the main sofa arrangement while extending naturally beneath the front legs of surrounding furniture.",
+    "promptAddFurniture": "A luxurious hand-tufted wool carpet in warm ivory, beige, and soft taupe, featuring an abstract flowing pattern with subtle raised texture. Scaled proportionally to anchor the main sofa arrangement while extending naturally beneath the front legs of surrounding furniture."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-neoclassical-persian.png",
+    "name": "Neoclassical Persian Carpet",
+    "promptReplace": "An elegant Persian-inspired carpet in muted cream, dusty blue, burgundy, and antique gold, featuring an intricate central medallion and refined floral border. Sized harmoniously for a formal living room, dining area, or grand bedroom without visually shrinking the space.",
+    "promptAddFurniture": "An elegant Persian-inspired carpet in muted cream, dusty blue, burgundy, and antique gold, featuring an intricate central medallion and refined floral border. Sized harmoniously for a formal living room, dining area, or grand bedroom without visually shrinking the space."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-japandi.png",
+    "name": "Japandi Carpet",
+    "promptReplace": "A refined handwoven carpet made from natural wool and jute in oatmeal beige, featuring a minimalist linear pattern and softly irregular texture. Proportioned appropriately to define a seating area or bedroom zone while maintaining a calm and uncluttered layout.",
+    "promptAddFurniture": "A refined handwoven carpet made from natural wool and jute in oatmeal beige, featuring a minimalist linear pattern and softly irregular texture. Proportioned appropriately to define a seating area or bedroom zone while maintaining a calm and uncluttered layout."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-coastal.png",
+    "name": "Coastal Carpet",
+    "promptReplace": "A luxurious coastal carpet woven from ivory wool and natural sisal, featuring subtle pale-blue stripes and a soft textured border. Scaled naturally for a beach house or coastal room, creating visual warmth without covering the entire floor.",
+    "promptAddFurniture": "A luxurious coastal carpet woven from ivory wool and natural sisal, featuring subtle pale-blue stripes and a soft textured border. Scaled naturally for a beach house or coastal room, creating visual warmth without covering the entire floor."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-industrial.png",
+    "name": "Industrial Carpet",
+    "promptReplace": "A premium low-pile carpet in charcoal gray, black, and muted brown, featuring a distressed geometric pattern and subtle vintage texture. Sized appropriately beneath a leather sofa, coffee table, bed, or urban seating arrangement.",
+    "promptAddFurniture": "A premium low-pile carpet in charcoal gray, black, and muted brown, featuring a distressed geometric pattern and subtle vintage texture. Sized appropriately beneath a leather sofa, coffee table, bed, or urban seating arrangement."
+  },
+  {
+    "categoryCode": "carpet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/carpet/image-carpet-art-deco.png",
+    "name": "Art Deco Carpet",
+    "promptReplace": "A glamorous Art Deco carpet in deep navy, emerald, ivory, and metallic-gold tones, featuring bold fan-shaped geometry and a plush velvet-like pile. Proportioned to anchor a luxury seating area or bedroom while remaining balanced with surrounding furniture.",
+    "promptAddFurniture": "A glamorous Art Deco carpet in deep navy, emerald, ivory, and metallic-gold tones, featuring bold fan-shaped geometry and a plush velvet-like pile. Proportioned to anchor a luxury seating area or bedroom while remaining balanced with surrounding furniture."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-modern-abstract.png",
+    "name": "Modern Abstract Art",
+    "promptReplace": "A large luxury abstract painting with layered ivory, beige, taupe, and muted-gold brushstrokes, featuring rich plaster-like texture and a slim brushed-brass frame. Scaled proportionally to the available wall space above a sofa, bed, console, or cabinet, leaving balanced negative space around the artwork.",
+    "promptAddFurniture": "A large luxury abstract painting with layered ivory, beige, taupe, and muted-gold brushstrokes, featuring rich plaster-like texture and a slim brushed-brass frame. Scaled proportionally to the available wall space above a sofa, bed, console, or cabinet, leaving balanced negative space around the artwork."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-neoclassical-oil-painting.png",
+    "name": "Neoclassical Oil Painting",
+    "promptReplace": "An elegant traditional oil painting depicting a soft European landscape in muted green, cream, and warm-brown tones, presented in an ornate antique-gold carved frame. Sized harmoniously for a villa living room, dining room, hallway, or bedroom feature wall.",
+    "promptAddFurniture": "An elegant traditional oil painting depicting a soft European landscape in muted green, cream, and warm-brown tones, presented in an ornate antique-gold carved frame. Sized harmoniously for a villa living room, dining room, hallway, or bedroom feature wall."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-japandi-textile.png",
+    "name": "Japandi Textile Art",
+    "promptReplace": "A refined minimalist textile artwork made from layered natural linen, handmade paper, and subtle black ink lines, framed in pale oak. Proportioned appropriately for a calm bedroom, living room, staircase wall, or minimalist console arrangement.",
+    "promptAddFurniture": "A refined minimalist textile artwork made from layered natural linen, handmade paper, and subtle black ink lines, framed in pale oak. Proportioned appropriately for a calm bedroom, living room, staircase wall, or minimalist console arrangement."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-coastal.png",
+    "name": "Coastal Artwork",
+    "promptReplace": "A luxurious coastal artwork depicting an abstract ocean horizon in soft blue, misty gray, sand, and white tones, finished with visible textured brushwork and a whitewashed-oak frame. Scaled naturally for a beach house living room, bedroom, dining area, or coastal hallway.",
+    "promptAddFurniture": "A luxurious coastal artwork depicting an abstract ocean horizon in soft blue, misty gray, sand, and white tones, finished with visible textured brushwork and a whitewashed-oak frame. Scaled naturally for a beach house living room, bedroom, dining area, or coastal hallway."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-industrial-photography.png",
+    "name": "Industrial Photography",
+    "promptReplace": "A large black-and-white architectural photograph featuring dramatic urban geometry, deep contrast, and a slim matte-black metal frame. Sized proportionally for an industrial loft, office, bedroom, or urban living room feature wall.",
+    "promptAddFurniture": "A large black-and-white architectural photograph featuring dramatic urban geometry, deep contrast, and a slim matte-black metal frame. Sized proportionally for an industrial loft, office, bedroom, or urban living room feature wall."
+  },
+  {
+    "categoryCode": "wall-art",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/wall-art/image-wall-art-art-deco-panel.png",
+    "name": "Art Deco Wall Panel",
+    "promptReplace": "A glamorous Art Deco wall artwork featuring layered emerald, black, cream, and metallic-gold geometric forms, framed in polished brass. Proportioned as a refined statement piece without overwhelming the wall or nearby furniture.",
+    "promptAddFurniture": "A glamorous Art Deco wall artwork featuring layered emerald, black, cream, and metallic-gold geometric forms, framed in polished brass. Proportioned as a refined statement piece without overwhelming the wall or nearby furniture."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-modern-full-length.png",
+    "name": "Modern Full-Length Mirror",
+    "promptReplace": "A luxurious full-length mirror with a softly rounded rectangular shape, ultra-slim brushed-brass frame, and clear premium reflective glass. Scaled naturally for a bedroom corner, walk-in wardrobe, hallway, or dressing area while maintaining realistic proportions.",
+    "promptAddFurniture": "A luxurious full-length mirror with a softly rounded rectangular shape, ultra-slim brushed-brass frame, and clear premium reflective glass. Scaled naturally for a bedroom corner, walk-in wardrobe, hallway, or dressing area while maintaining realistic proportions."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-neoclassical.png",
+    "name": "Neoclassical Mirror",
+    "promptReplace": "An elegant neoclassical wall mirror with a tall arched shape, ornate antique-gold carved frame, and delicate floral detailing. Sized proportionally above a console, fireplace, vanity, cabinet, or bedroom dresser.",
+    "promptAddFurniture": "An elegant neoclassical wall mirror with a tall arched shape, ornate antique-gold carved frame, and delicate floral detailing. Sized proportionally above a console, fireplace, vanity, cabinet, or bedroom dresser."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-japandi.png",
+    "name": "Japandi Mirror",
+    "promptReplace": "A refined oval mirror with a thick light-oak frame, softly rounded edges, and minimalist craftsmanship. Proportioned appropriately for a Japandi bedroom, entrance hall, bathroom, or calm living room corner.",
+    "promptAddFurniture": "A refined oval mirror with a thick light-oak frame, softly rounded edges, and minimalist craftsmanship. Proportioned appropriately for a Japandi bedroom, entrance hall, bathroom, or calm living room corner."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-coastal.png",
+    "name": "Coastal Mirror",
+    "promptReplace": "A luxurious round coastal mirror with a wide woven-rattan frame in a natural honey-beige tone, featuring refined handcrafted texture. Scaled harmoniously for a bathroom vanity, console, dresser, coastal bedroom, or bright living room wall.",
+    "promptAddFurniture": "A luxurious round coastal mirror with a wide woven-rattan frame in a natural honey-beige tone, featuring refined handcrafted texture. Scaled harmoniously for a bathroom vanity, console, dresser, coastal bedroom, or bright living room wall."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-industrial.png",
+    "name": "Industrial Mirror",
+    "promptReplace": "A premium rectangular mirror with a slim matte-black steel frame, divided into subtle window-style panels. Sized naturally for an industrial hallway, bedroom corner, dining wall, or urban living space.",
+    "promptAddFurniture": "A premium rectangular mirror with a slim matte-black steel frame, divided into subtle window-style panels. Sized naturally for an industrial hallway, bedroom corner, dining wall, or urban living space."
+  },
+  {
+    "categoryCode": "mirror",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/mirror/image-mirror-art-deco.png",
+    "name": "Art Deco Mirror",
+    "promptReplace": "A glamorous Art Deco mirror with a large fan-shaped silhouette, beveled glass sections, and polished-brass edging. Proportioned as an elegant feature above a console, fireplace, vanity, or luxury bedroom cabinet.",
+    "promptAddFurniture": "A glamorous Art Deco mirror with a large fan-shaped silhouette, beveled glass sections, and polished-brass edging. Proportioned as an elegant feature above a console, fireplace, vanity, or luxury bedroom cabinet."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-modern-sheer.png",
+    "name": "Modern Sheer Curtain",
+    "promptReplace": "Luxurious floor-to-ceiling curtains in warm ivory sheer linen, featuring soft natural folds, hidden ceiling tracks, and a subtle translucent texture that gently filters daylight. Sized precisely to match the window and ceiling height, with elegant floor-length draping and balanced fabric fullness.",
+    "promptAddFurniture": "Luxurious floor-to-ceiling curtains in warm ivory sheer linen, featuring soft natural folds, hidden ceiling tracks, and a subtle translucent texture that gently filters daylight. Sized precisely to match the window and ceiling height, with elegant floor-length draping and balanced fabric fullness."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-neoclassical-velvet.png",
+    "name": "Neoclassical Velvet Curtain",
+    "promptReplace": "Elegant curtains made from heavy champagne-beige velvet, featuring deep tailored pleats, decorative antique-gold tiebacks, and a layered ivory sheer panel behind. Proportioned to frame tall windows naturally while complementing a grand villa living room or bedroom.",
+    "promptAddFurniture": "Elegant curtains made from heavy champagne-beige velvet, featuring deep tailored pleats, decorative antique-gold tiebacks, and a layered ivory sheer panel behind. Proportioned to frame tall windows naturally while complementing a grand villa living room or bedroom."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-japandi-linen.png",
+    "name": "Japandi Linen Curtain",
+    "promptReplace": "Refined curtains made from natural oatmeal linen, with soft irregular texture, simple wave folds, and a concealed track. Sized according to the window and wall proportions, gently reaching the floor while maintaining a calm minimalist appearance.",
+    "promptAddFurniture": "Refined curtains made from natural oatmeal linen, with soft irregular texture, simple wave folds, and a concealed track. Sized according to the window and wall proportions, gently reaching the floor while maintaining a calm minimalist appearance."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-coastal.png",
+    "name": "Coastal Curtain",
+    "promptReplace": "Luxurious coastal curtains in lightweight off-white linen with a subtle pale-blue woven stripe, relaxed folds, and natural movement. Proportioned naturally for wide windows or glass doors in a beach house, coastal bedroom, or airy living room.",
+    "promptAddFurniture": "Luxurious coastal curtains in lightweight off-white linen with a subtle pale-blue woven stripe, relaxed folds, and natural movement. Proportioned naturally for wide windows or glass doors in a beach house, coastal bedroom, or airy living room."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-industrial.png",
+    "name": "Industrial Curtain",
+    "promptReplace": "Premium curtains in charcoal-gray textured fabric, featuring clean straight folds, matte-black curtain rods, and subtle metallic eyelets. Sized appropriately for the window opening, providing balanced visual weight without making the room feel dark or crowded.",
+    "promptAddFurniture": "Premium curtains in charcoal-gray textured fabric, featuring clean straight folds, matte-black curtain rods, and subtle metallic eyelets. Sized appropriately for the window opening, providing balanced visual weight without making the room feel dark or crowded."
+  },
+  {
+    "categoryCode": "curtain",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/curtain/image-curtain-art-deco.png",
+    "name": "Art Deco Curtain",
+    "promptReplace": "Glamorous curtains made from deep emerald velvet, featuring rich vertical folds, polished-brass rods, and elegant gold tiebacks. Layered with sheer champagne panels and scaled to frame the windows dramatically while remaining proportionate to the room.",
+    "promptAddFurniture": "Glamorous curtains made from deep emerald velvet, featuring rich vertical folds, polished-brass rods, and elegant gold tiebacks. Layered with sheer champagne panels and scaled to frame the windows dramatically while remaining proportionate to the room."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-modern-luxury.png",
+    "name": "Modern Luxury Cabinet",
+    "promptReplace": "A luxurious low storage cabinet finished in warm ivory lacquer, featuring softly rounded corners, handleless doors, a white marble top, and a slim brushed-brass base. Scaled proportionally for placement beneath wall art, beside a sofa, along a bedroom wall, or within an elegant hallway.",
+    "promptAddFurniture": "A luxurious low storage cabinet finished in warm ivory lacquer, featuring softly rounded corners, handleless doors, a white marble top, and a slim brushed-brass base. Scaled proportionally for placement beneath wall art, beside a sofa, along a bedroom wall, or within an elegant hallway."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-neoclassical.png",
+    "name": "Neoclassical Cabinet",
+    "promptReplace": "An elegant neoclassical cabinet crafted from dark walnut wood, featuring carved door panels, antique-gold handles, fluted corner details, and tapered legs. Sized harmoniously for a formal dining room, grand hallway, luxurious bedroom, or villa living space.",
+    "promptAddFurniture": "An elegant neoclassical cabinet crafted from dark walnut wood, featuring carved door panels, antique-gold handles, fluted corner details, and tapered legs. Sized harmoniously for a formal dining room, grand hallway, luxurious bedroom, or villa living space."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-japandi.png",
+    "name": "Japandi Cabinet",
+    "promptReplace": "A refined Japandi cabinet made from light natural oak, featuring clean sliding doors, woven-cane inserts, rounded edges, and discreet recessed handles. Proportioned naturally for a minimalist living room, dining area, bedroom, or calm entrance space.",
+    "promptAddFurniture": "A refined Japandi cabinet made from light natural oak, featuring clean sliding doors, woven-cane inserts, rounded edges, and discreet recessed handles. Proportioned naturally for a minimalist living room, dining area, bedroom, or calm entrance space."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-coastal.png",
+    "name": "Coastal Cabinet",
+    "promptReplace": "A luxurious coastal cabinet finished in soft whitewashed oak, featuring louvered doors, pale-brass handles, and a lightly textured limestone top. Scaled appropriately for a beach house dining room, bright bedroom, hallway, or relaxed living area.",
+    "promptAddFurniture": "A luxurious coastal cabinet finished in soft whitewashed oak, featuring louvered doors, pale-brass handles, and a lightly textured limestone top. Scaled appropriately for a beach house dining room, bright bedroom, hallway, or relaxed living area."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-industrial.png",
+    "name": "Industrial Cabinet",
+    "promptReplace": "A premium industrial cabinet combining dark reclaimed wood with a slim matte-black steel frame, featuring ribbed-glass doors and minimal black handles. Sized proportionally for an upscale loft, home bar, office, bedroom, or urban living room.",
+    "promptAddFurniture": "A premium industrial cabinet combining dark reclaimed wood with a slim matte-black steel frame, featuring ribbed-glass doors and minimal black handles. Sized proportionally for an upscale loft, home bar, office, bedroom, or urban living room."
+  },
+  {
+    "categoryCode": "cabinet",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/cabinet/image-cabinet-art-deco.png",
+    "name": "Art Deco Cabinet",
+    "promptReplace": "A glamorous Art Deco cabinet finished in high-gloss black lacquer, featuring curved corners, emerald-marble door panels, geometric polished-brass handles, and a gold metal base. Proportioned as a sophisticated statement cabinet without overpowering the surrounding interior.",
+    "promptAddFurniture": "A glamorous Art Deco cabinet finished in high-gloss black lacquer, featuring curved corners, emerald-marble door panels, geometric polished-brass handles, and a gold metal base. Proportioned as a sophisticated statement cabinet without overpowering the surrounding interior."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-modern-floating.png",
+    "name": "Modern Floating Shelf",
+    "promptReplace": "A luxurious floating wall shelf made from warm walnut wood, featuring a thick seamless profile, concealed mounting, and subtle integrated LED lighting underneath. Scaled according to the available wall space above a sofa, desk, cabinet, bed, or console.",
+    "promptAddFurniture": "A luxurious floating wall shelf made from warm walnut wood, featuring a thick seamless profile, concealed mounting, and subtle integrated LED lighting underneath. Scaled according to the available wall space above a sofa, desk, cabinet, bed, or console."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-neoclassical-display.png",
+    "name": "Neoclassical Display Shelf",
+    "promptReplace": "An elegant freestanding display shelf crafted from dark walnut wood, featuring fluted side columns, antique-gold trim, glass shelves, and refined carved details. Proportioned appropriately for a villa library, formal living room, bedroom, or elegant hallway.",
+    "promptAddFurniture": "An elegant freestanding display shelf crafted from dark walnut wood, featuring fluted side columns, antique-gold trim, glass shelves, and refined carved details. Proportioned appropriately for a villa library, formal living room, bedroom, or elegant hallway."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-japandi.png",
+    "name": "Japandi Shelf",
+    "promptReplace": "A refined open shelving unit made from light oak, with softly rounded vertical supports, asymmetrical shelves, visible natural grain, and minimalist craftsmanship. Sized naturally for a Japandi living room, study, bedroom corner, or contemporary apartment.",
+    "promptAddFurniture": "A refined open shelving unit made from light oak, with softly rounded vertical supports, asymmetrical shelves, visible natural grain, and minimalist craftsmanship. Sized naturally for a Japandi living room, study, bedroom corner, or contemporary apartment."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-coastal.png",
+    "name": "Coastal Shelf",
+    "promptReplace": "A luxurious coastal shelving unit made from whitewashed oak with woven-rattan back panels, open shelves, and softly curved corners. Proportioned harmoniously for a beach house, sunroom, bright bedroom, or relaxed living area.",
+    "promptAddFurniture": "A luxurious coastal shelving unit made from whitewashed oak with woven-rattan back panels, open shelves, and softly curved corners. Proportioned harmoniously for a beach house, sunroom, bright bedroom, or relaxed living area."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-industrial.png",
+    "name": "Industrial Shelf",
+    "promptReplace": "A premium industrial shelf combining thick reclaimed-walnut planks with a slim blackened-steel frame and cross-braced sides. Scaled appropriately for an upscale loft, urban studio, home office, bedroom, or masculine living room.",
+    "promptAddFurniture": "A premium industrial shelf combining thick reclaimed-walnut planks with a slim blackened-steel frame and cross-braced sides. Scaled appropriately for an upscale loft, urban studio, home office, bedroom, or masculine living room."
+  },
+  {
+    "categoryCode": "shelf",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/shelf/image-shelf-art-deco.png",
+    "name": "Art Deco Shelf",
+    "promptReplace": "A glamorous Art Deco display shelf with smoked-glass shelves, curved polished-brass supports, and a deep emerald lacquered base. Sized as an elegant display piece for a boutique apartment, luxury lounge, bedroom, or cocktail area.",
+    "promptAddFurniture": "A glamorous Art Deco display shelf with smoked-glass shelves, curved polished-brass supports, and a deep emerald lacquered base. Sized as an elegant display piece for a boutique apartment, luxury lounge, bedroom, or cocktail area."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-modern-ceramic.png",
+    "name": "Modern Ceramic Vase",
+    "promptReplace": "A luxurious sculptural ceramic vase in warm ivory with a matte stone-like finish, softly asymmetrical curves, and a narrow organic opening. Scaled appropriately as a decorative accent on a console, cabinet, dining table, side table, or living room floor.",
+    "promptAddFurniture": "A luxurious sculptural ceramic vase in warm ivory with a matte stone-like finish, softly asymmetrical curves, and a narrow organic opening. Scaled appropriately as a decorative accent on a console, cabinet, dining table, side table, or living room floor."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-neoclassical-porcelain.png",
+    "name": "Neoclassical Porcelain Vase",
+    "promptReplace": "An elegant porcelain vase in soft cream with delicate hand-painted blue floral details, antique-gold edging, and a graceful urn-shaped silhouette. Proportioned naturally for a formal console, dining table, fireplace mantel, cabinet, or bedroom dresser.",
+    "promptAddFurniture": "An elegant porcelain vase in soft cream with delicate hand-painted blue floral details, antique-gold edging, and a graceful urn-shaped silhouette. Proportioned naturally for a formal console, dining table, fireplace mantel, cabinet, or bedroom dresser."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-japandi-stoneware.png",
+    "name": "Japandi Stoneware Vase",
+    "promptReplace": "A refined handmade stoneware vase in muted taupe, featuring an irregular organic shape, subtle speckled texture, and a softly tapered neck. Sized harmoniously for a shelf, bedside table, console, dining table, or minimalist display corner.",
+    "promptAddFurniture": "A refined handmade stoneware vase in muted taupe, featuring an irregular organic shape, subtle speckled texture, and a softly tapered neck. Sized harmoniously for a shelf, bedside table, console, dining table, or minimalist display corner."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-coastal-glass.png",
+    "name": "Coastal Glass Vase",
+    "promptReplace": "A luxurious hand-blown glass vase in pale aqua blue, featuring soft bubbles, a gently rounded body, and a translucent sea-glass finish. Scaled appropriately for a coastal console, side table, cabinet, dining table, or bright bedroom.",
+    "promptAddFurniture": "A luxurious hand-blown glass vase in pale aqua blue, featuring soft bubbles, a gently rounded body, and a translucent sea-glass finish. Scaled appropriately for a coastal console, side table, cabinet, dining table, or bright bedroom."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-industrial-metal.png",
+    "name": "Industrial Metal Vase",
+    "promptReplace": "A premium tall vase made from dark oxidized metal, featuring a hammered surface, slim cylindrical profile, and subtle bronze highlights. Proportioned naturally for an industrial floor corner, console, shelf, cabinet, or urban living space.",
+    "promptAddFurniture": "A premium tall vase made from dark oxidized metal, featuring a hammered surface, slim cylindrical profile, and subtle bronze highlights. Proportioned naturally for an industrial floor corner, console, shelf, cabinet, or urban living space."
+  },
+  {
+    "categoryCode": "vase",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/vase/image-vase-art-deco.png",
+    "name": "Art Deco Vase",
+    "promptReplace": "A glamorous Art Deco vase made from deep emerald glass, featuring vertical fluting, a geometric stepped base, and polished-brass detailing around the rim. Sized elegantly for a luxury console, cocktail cabinet, dining table, bedroom dresser, or living room shelf.",
+    "promptAddFurniture": "A glamorous Art Deco vase made from deep emerald glass, featuring vertical fluting, a geometric stepped base, and polished-brass detailing around the rim. Sized elegantly for a luxury console, cocktail cabinet, dining table, bedroom dresser, or living room shelf."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-modern-wall-mounted.png",
+    "name": "Modern Wall-Mounted TV",
+    "promptReplace": "A premium ultra-thin television with a nearly bezel-free matte-black frame, mounted flush against the wall with all cables completely concealed. Scaled proportionally to the media wall and viewing distance, suitable for a modern penthouse, contemporary villa, bedroom, or minimalist living room.",
+    "promptAddFurniture": "A premium ultra-thin television with a nearly bezel-free matte-black frame, mounted flush against the wall with all cables completely concealed. Scaled proportionally to the media wall and viewing distance, suitable for a modern penthouse, contemporary villa, bedroom, or minimalist living room."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-frame-luxury.png",
+    "name": "Luxury Frame TV",
+    "promptReplace": "A sophisticated frame-style television with an ultra-slim warm-walnut bezel, displaying elegant neutral artwork when not in use. Mounted flush against a textured stone or plaster wall and sized harmoniously for the available space above a media cabinet or bedroom console.",
+    "promptAddFurniture": "A sophisticated frame-style television with an ultra-slim warm-walnut bezel, displaying elegant neutral artwork when not in use. Mounted flush against a textured stone or plaster wall and sized harmoniously for the available space above a media cabinet or bedroom console."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-japandi.png",
+    "name": "Japandi TV Setup",
+    "promptReplace": "A minimalist ultra-thin television with a slim charcoal frame, mounted above a low light-oak media console. All cables are hidden, creating a calm and uncluttered appearance. Proportioned naturally to the wall, console, seating distance, and surrounding Japandi furniture.",
+    "promptAddFurniture": "A minimalist ultra-thin television with a slim charcoal frame, mounted above a low light-oak media console. All cables are hidden, creating a calm and uncluttered appearance. Proportioned naturally to the wall, console, seating distance, and surrounding Japandi furniture."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-coastal.png",
+    "name": "Coastal TV Setup",
+    "promptReplace": "A premium television with a slim matte-white frame, mounted on a light limestone wall above a whitewashed-oak media cabinet. Features fully concealed wiring and balanced proportions suitable for a beach house living room, coastal bedroom, or bright family space.",
+    "promptAddFurniture": "A premium television with a slim matte-white frame, mounted on a light limestone wall above a whitewashed-oak media cabinet. Features fully concealed wiring and balanced proportions suitable for a beach house living room, coastal bedroom, or bright family space."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-industrial.png",
+    "name": "Industrial TV Setup",
+    "promptReplace": "A large ultra-thin television with a slim matte-black frame, mounted against a textured concrete or dark-brick feature wall. Includes hidden cables and a low reclaimed-wood media console with black steel details. Scaled appropriately to the viewing distance and urban loft layout.",
+    "promptAddFurniture": "A large ultra-thin television with a slim matte-black frame, mounted against a textured concrete or dark-brick feature wall. Includes hidden cables and a low reclaimed-wood media console with black steel details. Scaled appropriately to the viewing distance and urban loft layout."
+  },
+  {
+    "categoryCode": "tv",
+    "imageUrl": "https://raw.githubusercontent.com/levi0175/ideals-preview-image/main/tv/image-tv-art-deco.png",
+    "name": "Art Deco TV Setup",
+    "promptReplace": "A luxurious ultra-thin television with a polished black frame, integrated into a dramatic dark-marble media wall with symmetrical brushed-brass trim. All wiring is concealed, and the television is proportioned to fit elegantly within the architectural paneling without dominating the room.",
+    "promptAddFurniture": "A luxurious ultra-thin television with a polished black frame, integrated into a dramatic dark-marble media wall with symmetrical brushed-brass trim. All wiring is concealed, and the television is proportioned to fit elegantly within the architectural paneling without dominating the room."
+  }
+]
